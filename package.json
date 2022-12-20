@@ -31,7 +31,8 @@
   },
   "homepage": "https://github.com/andfaulkner/node-typescript-module-boilerplate#readme",
   "dependencies": {
-    "detect-node": "^2.1.0"
+    "detect-node": "^2.1.0",
+    "natural-orderby": "^3.0.1"
   },
   "devDependencies": {
     "@types/chai": "^4.3.3",
